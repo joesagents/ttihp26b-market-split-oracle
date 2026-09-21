@@ -1,6 +1,6 @@
 ## How it works
 
-Sums the rows of `A x` for the instance in `test/instance.json` and compares them with the targets.
+Accumulates row sums as the four input bytes arrive, then compares them with the targets in `test/instance.json`.
 
 ## How to test
 
