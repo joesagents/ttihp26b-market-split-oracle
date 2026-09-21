@@ -10,6 +10,15 @@ release.
 **Template:** [TinyTapeout/ttihp-verilog-template](https://github.com/TinyTapeout/ttihp-verilog-template)
 (Apache-2.0).
 
+**Shuttle:** Tiny Tapeout IHP 26b (Tiny Tapeout Ltd).
+See https://tinytapeout.com for details.
+
+**PDK:** IHP SG13G2 (IHP, Frankfurt (Oder); Apache-2.0).
+See https://github.com/IHP-GmbH/IHP-Open-PDK for details.
+
+**Funding:** SwissChips (ETH Zurich, EPFL and CSEM).
+See https://swisschips.ethz.ch for details.
+
 **Hardware:** Calculon (Hochschule für Informatik FHNW, Brugg-Windisch).
 See https://fhnw-hpc.pages.fhnw.ch/docs/ for details.
 
